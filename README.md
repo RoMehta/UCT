@@ -1,2 +1,2 @@
-This folder contains either my work/assignments or projects while studying at the University of CapeTown
+This folder contains my assignments/practicals for some of the courses taken during my BSc. in Mechatronics Engineering at the University of CapeTown
 
