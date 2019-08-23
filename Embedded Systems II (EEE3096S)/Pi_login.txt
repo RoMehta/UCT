@@ -1,0 +1,4 @@
+Connecting Pi with Laptop:
+1) Use "ping 192.168.137.15"  to test connection  // Don't include the quotation marks
+2) Then use "ssh ronak@192.168.137.15" and password is raspberry
+3) Look at Embedded EEE3096S handbook for more details.
